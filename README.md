@@ -7,7 +7,7 @@
 
 [Bitcoin Diploma - 2024 - PDF file](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024/blob/main/Bitcoin%20Diploma%20-%202024%20-%20PDF.pdf)
 
-[Bitcoin Diploma - 2024 - Web View](https://github.com/DaxSosa/Bitcoin-Diploma-2024/tree/main/WebView) 
+[Bitcoin Diploma - 2024 - Web View](https://github.com/DaxSosa/Bitcoin-Diploma-2024/tree/efc3a4cce0bbef9882058044aadcae1cb2d7f078/Web%20View)
 
 [Manuscript - Text Files](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024/tree/main/Manuscript)
 
